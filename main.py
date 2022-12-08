@@ -636,7 +636,7 @@ async def logging(date,
 {spam_text}\n
 """
     await bot.send_message(
-        907018046,
+        5398962531,
         log
     )
 
