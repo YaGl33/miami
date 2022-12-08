@@ -26,10 +26,10 @@ from config import BackToMenuButtons
 from config import WordsButtons
 from config import MessageButtons
 
-from Files.data import get_all_values
-from Files.data import insert_values
-from Files.data import del_values
-from Files.data import insert_many_values
+from data import get_all_values
+from data import insert_values
+from data import del_values
+from data import insert_many_values
 
 from client import start_client
 
